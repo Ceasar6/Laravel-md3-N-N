@@ -3,6 +3,8 @@
 namespace App\Http\Middleware;
 
 use Closure;
+use Illuminate\Support\Facades\Session;
+
 
 class CheckLogin
 {
@@ -15,6 +17,9 @@ class CheckLogin
      */
     public function handle($request, Closure $next)
     {
+        if (!Session::get('isLogin')){
+            return redirect()->route('show.login');
+        }
         return $next($request);
     }
 }

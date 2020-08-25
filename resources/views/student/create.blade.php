@@ -1,4 +1,4 @@
-@extends('home')
+@extends('core.menu')
 @section('content')
     <form method="post" action="{{route('students.add')}}">
         @csrf

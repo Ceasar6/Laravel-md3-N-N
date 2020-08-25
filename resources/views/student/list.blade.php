@@ -1,4 +1,4 @@
-@extends('home')
+@extends('core.menu')
 @section('content')
     <div class="col-12">
         <h2> List Student</h2>

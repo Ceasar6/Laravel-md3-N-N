@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74cc2ad7-2f22-49e0-8c92-4e429cc91d65" name="Default Changelist" comment="" />
+    <list default="true" id="74cc2ad7-2f22-49e0-8c92-4e429cc91d65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/GithubController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/GithubController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/CheckLogin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckLogin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Requests/CreateLoginRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/CreateLoginRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/core/menu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/core/menu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/github/users/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/github/users/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/login/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/login/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/student/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/student/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/student/update.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/student/update.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -119,15 +140,29 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1fywgYcDv3XPZB7PX53zLtsbzjl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/core" />
+      <recent name="$PROJECT_DIR$/resources/views" />
+      <recent name="$PROJECT_DIR$/resources/views/menu" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -145,33 +180,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597203755262</updated>
-      <workItem from="1597203773829" duration="12187000" />
+      <workItem from="1597203773829" duration="39067000" />
+      <workItem from="1597635623583" duration="73000" />
+      <workItem from="1598322529727" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="295" y="58" width="800" height="677" key="#Composer" timestamp="1597388525028">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="295" y="58" width="800" height="677" key="#Composer/35.27.1331.741@35.27.1331.741" timestamp="1597388525028" />
     <state x="433" y="154" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1597215644730">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
     <state x="433" y="154" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/35.27.1331.741@35.27.1331.741" timestamp="1597215644730" />
+    <state x="483" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597635696221">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="483" y="154" width="424" height="484" key="FileChooserDialogImpl/35.27.1331.741@35.27.1331.741" timestamp="1597635696221" />
     <state x="491" y="210" width="553" height="373" key="NewPhpClassDialog" timestamp="1597205752519">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
     <state x="491" y="210" width="553" height="373" key="NewPhpClassDialog/35.27.1331.741@35.27.1331.741" timestamp="1597205752519" />
-    <state x="496" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1597218291555">
+    <state x="496" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1597459874407">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
-    <state x="496" y="322" width="399" height="149" key="NewPhpFileDialog/35.27.1331.741@35.27.1331.741" timestamp="1597218291555" />
-    <state x="356" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597203783878">
+    <state x="496" y="322" width="399" height="149" key="NewPhpFileDialog/35.27.1331.741@35.27.1331.741" timestamp="1597459874407" />
+    <state x="356" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597635655246">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
-    <state x="356" y="224" key="com.intellij.ide.util.TipDialog/35.27.1331.741@35.27.1331.741" timestamp="1597203783878" />
-    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597218846777">
+    <state x="356" y="224" key="com.intellij.ide.util.TipDialog/35.27.1331.741@35.27.1331.741" timestamp="1597635655246" />
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597462456559">
       <screen x="35" y="27" width="1331" height="741" />
     </state>
-    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup/35.27.1331.741@35.27.1331.741" timestamp="1597218846777" />
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup/35.27.1331.741@35.27.1331.741" timestamp="1597462456559" />
   </component>
 </project>
